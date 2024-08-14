@@ -26,15 +26,6 @@ sections:
       pentru că știm cât de important este să înțelegem și să respectăm
       diferitele perspective ale celor din jurul nostru.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
