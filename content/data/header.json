@@ -32,7 +32,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Blog",
             "altText": "",
             "url": "/Blog",
             "showIcon": false,
