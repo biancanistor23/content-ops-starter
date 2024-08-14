@@ -14,14 +14,17 @@ sections:
 
       Educație nonformală : Credem că învățarea nu se întâmplă doar în sălile de
       clasă. Prin activități creative și interactive, vă oferim noi perspective
-      și abilități esențiale pentru viață.-
+      și abilități esențiale pentru viață.
 
 
       Îmbogățirea comunității : Suntem aici pentru a face o diferență în
       comunitatea noastră, prin proiecte și inițiative care aduc oamenii
       împreună și construiesc legături puternice.
 
-       Interculturalitate : Promovăm diversitatea și dialogul între culturi, pentru că știm cât de important este să înțelegem și să respectăm diferitele perspective ale celor din jurul nostru.
+
+      Interculturalitate : Promovăm diversitatea și dialogul între culturi,
+      pentru că știm cât de important este să înțelegem și să respectăm
+      diferitele perspective ale celor din jurul nostru.
     actions:
       - label: Get started
         altText: ''
