@@ -8,10 +8,23 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Experience Life to the Fullest
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Cu ce ne ocupăm?
+
+
+      \<div style="text-align: left">Educație nonformală: Credem că învățarea nu
+      se întâmplă doar în sălile de clasă. Prin activități creative și
+      interactive, vă oferim noi perspective și abilități esențiale pentru
+      viață.Îmbogățirea comunității : Suntem aici pentru a face o diferență în
+      comunitatea noastră, prin proiecte și inițiative care aduc oamenii
+      împreună și construiesc legături puternice.Interculturalitate : Promovăm
+      diversitatea și dialogul între culturi, pentru că știm cât de important
+      este să înțelegem și să respectăm diferitele perspective ale celor din
+      jurul nostru.
+
+
+      \</div>
+
     actions:
       - label: Get started
         altText: ''
