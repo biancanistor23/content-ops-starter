@@ -45,7 +45,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Enjoy life to the fullest (3).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
