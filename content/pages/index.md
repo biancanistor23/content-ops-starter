@@ -9,21 +9,19 @@ sections:
       type: TitleBlock
     subtitle: Experience Life to the Fullest
     text: >+
-      Cu ce ne ocupăm?
-
-
-      \<div style="text-align: left">Educație nonformală: Credem că învățarea nu
-      se întâmplă doar în sălile de clasă. Prin activități creative și
-      interactive, vă oferim noi perspective și abilități esențiale pentru
-      viață.Îmbogățirea comunității : Suntem aici pentru a face o diferență în
-      comunitatea noastră, prin proiecte și inițiative care aduc oamenii
-      împreună și construiesc legături puternice.Interculturalitate : Promovăm
-      diversitatea și dialogul între culturi, pentru că știm cât de important
-      este să înțelegem și să respectăm diferitele perspective ale celor din
-      jurul nostru.
-
-
-      \</div>
+      Cu ce ne ocupăm?- Educație nonformală
+      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1/16/1f4da.png):
+      Credem că învățarea nu se întâmplă doar în sălile de clasă. Prin
+      activități creative și interactive, vă oferim noi perspective și abilități
+      esențiale pentru viață.- Îmbogățirea comunității
+      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f331.png):
+      Suntem aici pentru a face o diferență în comunitatea noastră, prin
+      proiecte și inițiative care aduc oamenii împreună și construiesc legături
+      puternice.- Interculturalitate
+      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png):
+      Promovăm diversitatea și dialogul între culturi, pentru că știm cât de
+      important este să înțelegem și să respectăm diferitele perspective ale
+      celor din jurul nostru.
 
     actions:
       - label: Get started
