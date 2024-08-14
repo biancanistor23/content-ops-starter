@@ -12,7 +12,6 @@ sections:
           textAlign: left
     subtitle: Experience Life to the Fullest
     text: >
-      ![](/images/Enjoy%20life%20to%20the%20fullest%20\(3\).png)
 
 
       Suntem o organizație non-guvernamentală dedicată tinerilor și avem un scop
