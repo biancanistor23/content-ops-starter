@@ -2,59 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Asociația de tineret "ELF"
-      color: text-dark
-      type: TitleBlock
-    subtitle: Experience Life to the Fullest
-    text: >
-      Cu ce ne ocupăm?
-
-
-      Educație nonformală : Credem că învățarea nu se întâmplă doar în sălile de
-      clasă. Prin activități creative și interactive, vă oferim noi perspective
-      și abilități esențiale pentru viață.
-
-
-      Îmbogățirea comunității : Suntem aici pentru a face o diferență în
-      comunitatea noastră, prin proiecte și inițiative care aduc oamenii
-      împreună și construiesc legături puternice.
-
-
-      Interculturalitate : Promovăm diversitatea și dialogul între culturi,
-      pentru că știm cât de important este să înțelegem și să respectăm
-      diferitele perspective ale celor din jurul nostru.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Enjoy life to the fullest (3).png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
