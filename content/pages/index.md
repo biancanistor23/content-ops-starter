@@ -11,7 +11,10 @@ sections:
         self:
           textAlign: left
     subtitle: Experience Life to the Fullest
-    text: >+
+    text: >
+      ![](/images/Enjoy%20life%20to%20the%20fullest%20\(3\).png)
+
+
       Suntem o organizație non-guvernamentală dedicată tinerilor și avem un scop
       clar: să creăm un mediu în care fiecare dintre voi să-și dezvolte
       potențialul și să devină cea mai bună versiune a sa!
@@ -42,9 +45,6 @@ sections:
       Alătură-te nouă și împreună vom face lucruri extraordinare.Îndrăznește să
       fii altfel!
       ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png)
-
-
-
     actions: []
     colors: bg-light-fg-dark
     styles:
