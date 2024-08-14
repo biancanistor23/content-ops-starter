@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/Logo.png",
         "altText": "Logo ELF",
         "styles": {
             "self": {
