@@ -74,9 +74,9 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Asociația de tineret "ELF"
+  metaDescription: Experience Life to the Fullest
+  socialImage: /images/Logo.svg
   type: Seo
 type: PageLayout
 ---
