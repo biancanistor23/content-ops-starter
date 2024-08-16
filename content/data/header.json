@@ -15,7 +15,7 @@
         {
             "label": "Galerie",
             "altText": "Blog",
-            "url": "",
+            "url": "/Galerie",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
