@@ -62,7 +62,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: a
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
