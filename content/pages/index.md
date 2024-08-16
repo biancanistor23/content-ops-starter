@@ -76,7 +76,7 @@ sections:
 seo:
   metaTitle: Asociația de tineret "ELF"
   metaDescription: Experience Life to the Fullest
-  socialImage: /images/Logo.jpg
+  socialImage: /images/Logo.svg
   type: Seo
 type: PageLayout
 ---
