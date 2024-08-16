@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Galerie Elf
-date: ''
+date: '2024-08-14'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
