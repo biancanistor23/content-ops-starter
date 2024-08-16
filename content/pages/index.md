@@ -21,7 +21,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: left
     media:
       type: ImageBlock
       url: /images/Enjoy life to the fullest (3).png
