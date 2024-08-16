@@ -24,7 +24,6 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/Enjoy life to the fullest (3).png
       altText: Image alt text placeholder
       elementId: ''
       styles:
