@@ -9,13 +9,13 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/Untitled design (1).png"
+        "url": "/images/Logo (4).svg"
     },
     "primaryLinks": [
         {
             "label": "Galerie",
-            "altText": "Blog",
-            "url": "",
+            "altText": "Galerie",
+            "url": "/galerie",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,8 +23,8 @@
         },
         {
             "label": "Proiecte",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Pagina Proiecte",
+            "url": "/proiecte",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -34,7 +34,7 @@
             "type": "Link",
             "label": "Blog",
             "altText": "",
-            "url": "/Blog",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

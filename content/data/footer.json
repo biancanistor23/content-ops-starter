@@ -1,13 +1,14 @@
 {
     "logo": {
-        "url": "/images/Untitled design (1).png",
+        "url": "/images/Logo (4).svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Indrazneste sa fii altfel\n\n",
+    "text": "",
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Indrazneste sa fii altfel!"
 }

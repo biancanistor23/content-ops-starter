@@ -11,40 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: Experience Life to the Fullest
-    text: >
-      ![](/images/Enjoy%20life%20to%20the%20fullest%20\(3\).png)
-
-
-      Suntem o organizație non-guvernamentală dedicată tinerilor și avem un scop
-      clar: să creăm un mediu în care fiecare dintre voi să-și dezvolte
-      potențialul și să devină cea mai bună versiune a sa!
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t3c/1/16/1f4a1.png)Cu
-      ce ne ocupăm?- Educație nonformală
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1/16/1f4da.png):
-      Credem că învățarea nu se întâmplă doar în sălile de clasă. Prin
-      activități creative și interactive, vă oferim noi perspective și abilități
-      esențiale pentru viață.- Îmbogățirea comunității
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t69/1/16/1f331.png):
-      Suntem aici pentru a face o diferență în comunitatea noastră, prin
-      proiecte și inițiative care aduc oamenii împreună și construiesc legături
-      puternice.- Interculturalitate
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png):
-      Promovăm diversitatea și dialogul între culturi, pentru că știm cât de
-      important este să înțelegem și să respectăm diferitele perspective ale
-      celor din jurul nostru.Ce ne propunem?Vrem să fim un spațiu deschis pentru
-      toți tinerii care doresc să învețe, să crească și să contribuie la o lume
-      mai bună.
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t3f/1/16/1f30d.png)
-      Încurajăm spiritul civic
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t64/1/16/1f91d.png)
-      prin voluntariat și educația în spirit european
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/1f1ea_1f1fa.png),
-      pentru ca împreună să construim un viitor mai luminos.Te invităm să ne
-      urmărești și să te implici!
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png)
-      Alătură-te nouă și împreună vom face lucruri extraordinare.Îndrăznește să
-      fii altfel!
-      ![](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png)
+    text: "**Suntem o organizație non-guvernamentală dedicată tinerilor și avem un scop clar: să creăm un mediu în care fiecare dintre voi să-și dezvolte potențialul și să devină cea mai bună versiune a sa! \U0001F31F**\n\n**Cu ce ne ocupăm?**\n\n*   **Educație nonformală \U0001F4DA**: Credem că învățarea nu se întâmplă doar în sălile de clasă. Prin activități creative și interactive, vă oferim noi perspective și abilități esențiale pentru viață.\n\n*   **Îmbogățirea comunității \U0001F331**: Suntem aici pentru a face o diferență în comunitatea noastră, prin proiecte și inițiative care aduc oamenii împreună și construiesc legături puternice.\n\n*   **Interculturalitate \U0001F30D**: Promovăm diversitatea și dialogul între culturi, pentru că știm cât de important este să înțelegem și să respectăm diferitele perspective ale celor din jurul nostru.\n\n**Ce ne propunem?**\n\nVrem să fim un spațiu deschis pentru toți tinerii care doresc să învețe, să crească și să contribuie la o lume mai bună.\n\n**Încurajăm spiritul civic \U0001F91D** prin voluntariat și educația în spirit european \U0001F1EA\U0001F1FA, pentru ca împreună să construim un viitor mai luminos.\n\nTe invităm să ne urmărești și să te implici! ✨ Alătură-te nouă și împreună vom face lucruri extraordinare.\n\n**Îndrăznește să fii altfel! \U0001F680**\n\n\n\n"
     actions: []
     colors: bg-light-fg-dark
     styles:
@@ -53,6 +20,54 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Enjoy life to the fullest (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -63,6 +78,33 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet the team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -73,10 +115,5 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-seo:
-  metaTitle: Asociația de tineret "ELF"
-  metaDescription: Experience Life to the Fullest
-  socialImage: /images/Logo.svg
-  type: Seo
 type: PageLayout
 ---
