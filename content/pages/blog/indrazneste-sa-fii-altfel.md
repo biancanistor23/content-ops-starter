@@ -21,7 +21,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Galerie Elf
+      text: ''
       color: text-dark
       styles:
         self:
