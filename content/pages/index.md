@@ -41,7 +41,7 @@ sections:
           - pb-20
           - pr-20
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/sanity-logo.svg
