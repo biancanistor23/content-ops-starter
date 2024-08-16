@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Galerie",
-            "altText": "Blog",
+            "altText": "Galerie",
             "url": "/galerie",
             "icon": "arrowRight",
             "iconPosition": "right",
