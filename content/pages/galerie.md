@@ -99,7 +99,7 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-slug: empty
+slug: galerie
 isDraft: false
 seo:
   type: Seo
