@@ -30,7 +30,7 @@ bottomSections:
     showThumbnail: true
     showExcerpt: true
     showDate: true
-    showAuthor: false
+    showAuthor: true
     actions: []
     elementId: ''
     variant: three-col-grid
