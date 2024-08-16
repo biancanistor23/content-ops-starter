@@ -42,11 +42,7 @@ sections:
           - pr-20
   - type: ImageGallerySection
     subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
