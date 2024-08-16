@@ -91,6 +91,7 @@ sections:
       - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
+      - content/data/da.json
       - content/data/person5.json
     actions: []
     variant: three-col-grid
