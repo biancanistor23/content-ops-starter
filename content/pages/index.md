@@ -44,7 +44,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Enjoy life to the fullest (3).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
