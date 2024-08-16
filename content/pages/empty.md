@@ -41,7 +41,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
+          altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
             self:
@@ -54,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
+          altText: Cotton Knit Throws
           elementId: ''
           styles:
             self:
